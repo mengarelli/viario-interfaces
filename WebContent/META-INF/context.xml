@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource name="jdbc/ViarioDB" auth="Container"
+		type="javax.sql.DataSource" maxActive="100" maxIdle="30"
+		maxWait="10000" driverClassName="oracle.jdbc.OracleDriver"
+		url="jdbc:oracle:thin:@//10.7.14.10:1521/NETAC" username="GEOCALLVIA"
+		password="GEOCALLVIA_2018" validationQuery="select 1 from dual"/>
+	<!-- <ResourceLink name="jdbc/ViarioDB" global="jdbc/JCGExampleDB" type="javax.sql.DataSource" 
+		/> -->
+</Context>

@@ -1,0 +1,5 @@
+br/engdb/viario/rest/neta/ATC.class
+br/engdb/viario/rest/neta/ATCService.class
+br/engdb/viario/database/Database.class
+br/engdb/viario/rest/neta/ATC$ATCRelation.class
+br/engdb/viario/rest/neta/RestApplication.class
